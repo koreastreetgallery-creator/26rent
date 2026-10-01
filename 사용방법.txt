@@ -1,0 +1,9 @@
+26렌트카 PWA 정상연결용 파일
+- index.html
+- manifest.webmanifest
+- sw.js
+- icon-192.png
+- icon-512.png
+- 사용방법.txt
+
+기존 Supabase 연결과 로그인/배차/회차 저장 기능을 유지하면서 휴대폰 홈 화면 설치 기능을 추가한 버전입니다.
